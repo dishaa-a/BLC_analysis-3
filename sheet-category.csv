@@ -1,0 +1,300 @@
+Sno,Country,City,Company,LINKDLN LINK,Website,Tech Need / Problem,EMAIL,CONTACT,Google Maps,Clean_Category,Review
+1,India,Bhilwara,Payal kashida kendra and Services,N/A,N/A,N/A,N/A,9928687731,Payal kashida kendra and Services,Services,
+2,India,Bhilwara,Mateshwari Cloth,N/A,N/A,N/A,N/A,9460576101,Mateshwari Cloth,Store,
+3,India,Bhilwara,Vastram BEST MEN'S WEAR SHOP IN Bhilwara,N/A,N/A,N/A,N/A,8005581186,Vastram BEST MEN'S WEAR SHOP IN Bhilwara,Store,
+4,India,Jaipur,Heera Medicals,N/A,N/A,N/A,N/A,9829007085,Heera Medicals,Pharmacy,4.6
+5,India,Jaipur,Ram Singh Medicals,N/A,N/A,N/A,N/A,1412575731,Ram Singh Medicals,Pharmacy,4.7
+6,India,Jaipur,Karol Medical,N/A,N/A,N/A,N/A,8107112678,Karol Medical,Pharmacy,4
+7,India,Jaipur,Pravesh Medical&Grocery Store Stor,N/A,N/A,N/A,N/A,9887277007,Pravesh Medical&Grocery Store Stor,Pharmacy,4.3
+8,India,Jaipur,Jaipur Medical,N/A,N/A,N/A,N/A,7568595999,Jaipur Medical,Pharmacy,5
+9,India,Jaipur,Laxmi Medicaland Grocery Store Store,N/A,N/A,N/A,N/A,9928445732,Laxmi Medicaland Grocery Store Store,Pharmacy,4.6
+10,India,Jaipur,bahubali Medicaland journal store,N/A,N/A,N/A,N/A,9928648162,bahubali Medicaland journal store,Pharmacy,4.4
+11,India,Jaipur,Ganesh Medical,N/A,N/A,N/A,N/A,1412783634,Ganesh Medical,Pharmacy,4.4
+12,India,Jaipur,Goyal Medical,N/A,N/A,N/A,N/A,9314531821,Goyal Medical,Pharmacy,4.3
+13,India,Jaipur,Vaishali Medicaland Grocery Store,N/A,N/A,N/A,N/A,9461128920,Vaishali Medicaland Grocery Store,Pharmacy,4.2
+14,India,Jaipur,Kohli Grocery Store,N/A,N/A,N/A,N/A,9982666441,Kohli Grocery Store,Pharmacy,4.2
+15,India,Jaipur,Veena Grocery Store Store,N/A,N/A,N/A,N/A,9352912661,Veena Grocery Store Store,Pharmacy,4.3
+16,India,Jaipur,Sunita Grocery Store Store,N/A,N/A,N/A,N/A,1412701364,Sunita Grocery Store Store,Pharmacy,4.4
+17,India,Jaipur,Rajeev Medical,N/A,N/A,N/A,N/A,9928491480,Rajeev Medical,Pharmacy,4.6
+18,India,Jaipur,Siyaram Grocery Store Store,N/A,N/A,N/A,N/A,1412724739,Siyaram Grocery Store Store,Pharmacy,4.1
+19,India,Jaipur,Jai Shree Medical,N/A,N/A,N/A,N/A,7611923934,Jai Shree Medical,Pharmacy,4.5
+20,India,Jaipur,Adarsh Grocery Store,N/A,N/A,N/A,N/A,1412710312,Adarsh Grocery Store,Pharmacy,4.5
+21,India,Jaipur,Jindal Medical,N/A,N/A,N/A,N/A,8560935095,Jindal Medical,Pharmacy,4.3
+22,India,Jaipur,KRISHNA Grocery Store STORE,N/A,N/A,N/A,N/A,9829023487,KRISHNA Grocery Store STORE,Pharmacy,4.8
+23,India,Jaipur,Mayank Medical,N/A,N/A,N/A,N/A,9829822047,Mayank Medical,Pharmacy,4.6
+24,India,Jaipur,BALA JI MedicalAND Grocery Store,N/A,N/A,N/A,N/A,8529565102,BALA JI MedicalAND Grocery Store,Pharmacy,4.8
+25,India,Jaipur,Shekhawati Medicaland Grocery Store,N/A,N/A,N/A,N/A,9414978516,Shekhawati Medicaland Grocery Store,Pharmacy,4.9
+26,India,Jaipur,Shree Shyam Medical,N/A,N/A,N/A,N/A,9828920826,Shree Shyam Medical,Pharmacy,4.4
+27,India,Jaipur,Sharda Grocery Store Store,N/A,N/A,N/A,N/A,9660918303,Sharda Grocery Store Store,Pharmacy,4.6
+28,India,Jaipur,Riddhi Siddhi Medical,N/A,N/A,N/A,N/A,7976688171,Riddhi Siddhi Medical,Pharmacy,4.7
+29,India,Jaipur,Gupta Medical,N/A,N/A,N/A,N/A,9829610158,Gupta Medical,Pharmacy,4.6
+30,India,Jaipur,GOYAL MEDICAL,N/A,N/A,N/A,N/A,9413085443,GOYAL MEDICAL,Pharmacy,3.2
+31,India,Jaipur,PADMA MEDICOS AND Grocery Store,N/A,N/A,N/A,N/A,9828320920,PADMA MEDICOS AND Grocery Store,Pharmacy,4.2
+32,India,Jaipur,Mahalaxmi Medical,N/A,N/A,N/A,N/A,9828393166,Mahalaxmi Medical,Pharmacy,4.4
+33,India,Jaipur,Jay Medical,N/A,N/A,N/A,N/A,9664032124,Jay Medical,Pharmacy,4.6
+34,India,Jaipur,Kamla Grocery Storeal Store,N/A,N/A,N/A,N/A,8233029674,Kamla Grocery Storeal Store,Pharmacy,4.5
+35,India,Jaipur,Ashoka Medicaland Grocery Store,N/A,N/A,N/A,N/A,9929049000,Ashoka Medicaland Grocery Store,Pharmacy,4.4
+36,India,Jaipur,Vinayak Medicals,N/A,N/A,N/A,N/A,9001295060,Vinayak Medicals,Pharmacy,5
+37,India,Jaipur,Vishvam Medical,N/A,N/A,N/A,N/A,7240335514,Vishvam Medical,Pharmacy,
+38,India,Jaipur,ANJANA Medical,N/A,N/A,N/A,N/A,7689050445,ANJANA Medical,Pharmacy,
+39,India,Jaipur,Sharma MedicalAnd Grocery Storeal Store,N/A,N/A,N/A,N/A,9782506000,Sharma MedicalAnd Grocery Storeal Store,Pharmacy,
+40,India,Jaipur,SHRI BABA AYURVED STORE,N/A,N/A,N/A,N/A,8824821008,SHRI BABA AYURVED STORE,Pharmacy,4.9
+41,India,Jaipur,Akansha MedicalAnd Grocery Store,N/A,N/A,N/A,N/A,9829282887,Akansha MedicalAnd Grocery Store,Pharmacy,
+42,India,Jaipur,Harsh Medical& Departmental Store,N/A,N/A,N/A,N/A,9928499383,Harsh Medical& Departmental Store,Pharmacy,
+43,India,Jaipur,INDIAN Grocery Store,N/A,N/A,N/A,N/A,7691077042,INDIAN Grocery Store,Pharmacy,
+44,India,Jaipur,Arihant Grocery Store,N/A,N/A,N/A,N/A,8107701905,Arihant Grocery Store,Pharmacy,
+45,India,Jaipur,The Herb Shoppe - Ayurvedic Medicine Store,N/A,N/A,N/A,N/A,9783990007,The Herb Shoppe - Ayurvedic Medicine Store,Pharmacy,5
+46,India,Jaipur,Life Line Grocery Store,N/A,N/A,N/A,N/A,9928683601,Life Line Grocery Store,Pharmacy,
+47,India,Jaipur,Healthcare Grocery Store Store,N/A,N/A,N/A,N/A,9314030666,Healthcare Grocery Store Store,Pharmacy,
+48,India,Jaipur,Royal Medical,N/A,N/A,N/A,N/A,9829610122,Royal Medical,Pharmacy,
+49,India,Jaipur,Sanjeevni Medical,N/A,N/A,N/A,N/A,9950171783,Sanjeevni Medical,Pharmacy,
+50,India,Jaipur,Jain Medicals,N/A,N/A,N/A,N/A,9782212372,Jain Medicals,Pharmacy,4.6
+51,India,Jaipur,"Dr Gaurav Gupta, MD, DM",N/A,N/A,N/A,N/A,8239187097,"Dr Gaurav Gupta, MD, DM",Medical,4.6
+52,India,Jaipur,Dr Abhishek Agrawal,N/A,N/A,N/A,N/A,9829298691,Dr Abhishek Agrawal,Medical,4.6
+53,India,Jaipur,Dr. R.Dhan,N/A,N/A,N/A,N/A,9602931113,Dr. R.Dhan,Medical,4.9
+54,India,Jaipur,Jaipur Clinic,N/A,N/A,N/A,N/A,2942460888,Jaipur Clinic,Medical,
+55,India,Jaipur,Dr S K Sharma,N/A,N/A,N/A,N/A,1412451947,Dr S K Sharma,Medical,4
+56,India,Jaipur,Dr Kalyan Sahay,N/A,N/A,N/A,N/A,9352977917,Dr Kalyan Sahay,Medical,4.1
+57,India,Jaipur,Dr Raman Sharma,N/A,N/A,N/A,N/A,1412385052,Dr Raman Sharma,Medical,4.6
+58,India,Jaipur,Dr. Akhil Goel,N/A,N/A,N/A,N/A,9260991674,Dr. Akhil Goel,Medical,4.8
+59,India,Jaipur,Gangori Hospital,N/A,N/A,N/A,N/A,1412329050,Gangori Hospital,Medical,3.8
+60,India,Jaipur,Dr. Ankit Gupta,N/A,N/A,N/A,N/A,9413268070,Dr. Ankit Gupta,Medical,4.4
+61,India,Jaipur,Dr. Subhash nepalia,N/A,N/A,N/A,N/A,1412368100,Dr. Subhash nepalia,Medical,3.5
+62,India,Jaipur,House Of Medical's,N/A,N/A,N/A,N/A,9314801446,House Of Medical's,Medical,
+63,India,Jaipur,Infinity Endovascular Clinic,N/A,N/A,N/A,N/A,7729021111,Infinity Endovascular Clinic,Medical,5
+64,India,Jaipur,Dr Shashi Panicker,N/A,N/A,N/A,N/A,1412281580,Dr Shashi Panicker,Medical,4.4
+65,India,Jaipur,Garg Poly Clinic,N/A,N/A,N/A,N/A,1412201422,Garg Poly Clinic,Medical,4.6
+66,India,Jaipur,Dr. Shantanu Sharma,N/A,N/A,N/A,N/A,9828246180,Dr. Shantanu Sharma,Medical,4.6
+67,India,Jaipur,Sancheti Grocery Store,N/A,N/A,N/A,N/A,1412622160,Sancheti Grocery Store,Grocery Store,
+68,India,Jaipur,GENERAL TECHNICO (RAMESHWAR JI KI CHANDI KI FACTORY),N/A,N/A,N/A,N/A,1412564374,GENERAL TECHNICO (RAMESHWAR JI KI CHANDI KI FACTORY),Retail,5
+69,India,Jaipur,Radha Ballabh & Sons,N/A,N/A,N/A,N/A,9649193503,Chopra Generator’s,Electrician store,5
+70,India,Jaipur,Shree jai Ganesh Namkeen Bhandar,N/A,N/A,N/A,N/A,9829205895,Shree jai Ganesh Namkeen Bhandar,Food,5
+71,India,Jaipur,Gupta Enterprises,N/A,N/A,N/A,N/A,9649003981,Gupta Enterprises,Store,4
+72,India,Jaipur,Vishnu Enterprises,N/A,N/A,N/A,N/A,9829586254,Vishnu Enterprises,Countertop store,4.6
+73,India,Jaipur,S. K. ENTERPRISES,N/A,N/A,N/A,N/A,8130672775,S. K. ENTERPRISES,Gift shop,5
+74,India,Jaipur,Sunil Enterprises,N/A,N/A,N/A,N/A,1412318877,Sunil Enterprises,Pharmaceuticals Exporter,5
+75,India,Jaipur,Indian Trading Enterprises,N/A,N/A,N/A,N/A,9314500934,Indian Trading Enterprises,Industrial Salonres & Products Real Estate,5
+76,India,Jaipur,Gupta enterprises,N/A,N/A,N/A,N/A,9649003981,Gupta enterprises,Store,4
+77,India,Jaipur,Ajay Enterprises,N/A,N/A,N/A,N/A,9414063313,Ajay Enterprises,Services,5
+78,India,Jaipur,Star Enterprises,N/A,N/A,N/A,N/A,9829011272,Star Enterprises,Manufacturer,5
+79,India,Jaipur,Radhe Krishna Enterprises,N/A,N/A,N/A,N/A,8955172590,Radhe Krishna Enterprises,Manufacturer,5
+80,India,Jaipur,VK Enterprises,N/A,N/A,N/A,N/A,9414442175,VK Enterprises,Services,5
+81,India,Jaipur,R. D. Enterprises,N/A,N/A,N/A,N/A,9928220147,R. D. Enterprises,Services,5
+82,India,Jaipur,Ashish Enterprises,N/A,N/A,N/A,N/A,8952820355,Ashish Enterprises,Store,5
+83,India,Jaipur,Sagar Enterprises,N/A,N/A,N/A,N/A,1412316006,Sagar Enterprises,Grocery Store,3.5
+84,India,Jaipur,karma enterprises,N/A,N/A,N/A,N/A,9314874986,karma enterprises,Textile mill,5
+85,India,Jaipur,Shreeji Enterprises,N/A,N/A,N/A,N/A,1412571815,Shreeji Enterprises,Plastic Products Supplier,
+86,India,Jaipur,Gita Enterprises,N/A,N/A,N/A,N/A,1412601927,Gita Enterprises,Store,2.6
+87,India,Jaipur,GAURI SHANKAR ENTERPRISES,N/A,N/A,N/A,N/A,8955531126,GAURI SHANKAR ENTERPRISES,FMCG Goods Real Estate,5
+88,India,Jaipur,Agarwal Enterprises,N/A,N/A,N/A,N/A,8559959313,Agarwal Enterprises,Grocery store,5
+89,India,Jaipur,Ratan Hind Enterprises,N/A,N/A,N/A,N/A,7733978661,Ratan Hind Enterprises,store,5
+90,India,Jaipur,"Universal Enterprises , Manufacturers Hospitalss Garments hospital rarmennts",N/A,N/A,N/A,N/A,9667189667,"Universal Enterprises , Manufacturers Hospitalss Garments hospital rarmennts",Hospital,5
+91,India,Jaipur,Uma Enterprises,N/A,N/A,N/A,N/A,8094655521,Uma Enterprises,Real Estate,
+92,India,Jaipur,Rishi Raj Enterprises,N/A,N/A,N/A,N/A,9314289693,Rishi Raj Enterprises,Hardware Store,3.7
+93,India,Jaipur,Bagda Enterprises,N/A,N/A,N/A,N/A,7877299851,Bagda Enterprises,Business related,5
+94,India,Jaipur,Anmol Enterprises,N/A,N/A,N/A,N/A,1414018018,Anmol Enterprises,Furniture,1
+95,India,Jaipur,Aditya Enterprises,N/A,N/A,N/A,N/A,9772274555,Aditya Enterprises,Housing utility company,
+96,India,Jaipur,Ankit paints,N/A,N/A,N/A,N/A,1412318203,Ankit paints,Store,
+97,India,Jaipur,Vishnu enterprises new collection,N/A,N/A,N/A,N/A,9829586254,Vishnu enterprises new collection,Real Estate,
+98,India,Jaipur,Rohit Enterprises,N/A,N/A,N/A,N/A,8426968639,Rohit Enterprises,Juice shop,
+99,India,Jaipur,Sambhav enterprises,N/A,N/A,N/A,N/A,9928897841,Sambhav enterprises,Hardware Store,
+100,India,Jaipur,Gopal Lal Dinesh Kumar,N/A,N/A,N/A,N/A,9929043722,Gopal Lal Dinesh Kumar,store,
+101,India,Jaipur,Prabhu Dayal & Sons,N/A,N/A,N/A,N/A,9413694909,Prabhu Dayal & Sons,Hardware Store,
+102,India,Jaipur,Prabhudayal & Sons,N/A,N/A,N/A,N/A,9314020421,Prabhudayal & Sons,Grocery Store,
+103,India,Jaipur,Khandelwal Enterprises,N/A,N/A,N/A,N/A,8233313119,Khandelwal Enterprises,Grocery Store,
+104,India,Jaipur,Gopal Lal Dinesh Kumar,N/A,N/A,N/A,N/A,9929043722,Gopal Lal Dinesh Kumar,store,
+105,India,Jaipur,Goyal Industries - Pattal Dona Raw Material - Silver Paper Plate Raw Material - Paper Plate Raw Material - Dona Pattal Die,N/A,N/A,N/A,N/A,8048622704,Goyal Industries - Pattal Dona Raw Material - Silver Paper Plate Raw Material - Paper Plate Raw Material - Dona Pattal Die,Paper store,
+106,India,Jaipur,Sethi MedicalAnd Grocery Store,N/A,N/A,N/A,N/A,9928077197,Sethi MedicalAnd Grocery Store,Clinic,
+107,India,Jaipur,Mahi's Stationers,N/A,N/A,N/A,N/A,7230089755,Mahi's Stationers,Stationery store,
+108,India,Jaipur,V K Enterprises Wholesale Stationery,N/A,N/A,N/A,N/A,9829085534,V K Enterprises Wholesale Stationery,Stationery store,
+109,India,Jaipur,Sanmati Stationers,N/A,N/A,N/A,N/A,9828047171,Sanmati Stationers,Stationery store,
+110,India,Jaipur,Shri Govind Stationery,N/A,N/A,N/A,N/A,9928860881,Shri Govind Stationery,Real Estate,
+111,India,Jaipur,Aayra Stationery and accessories,N/A,N/A,N/A,N/A,7597462989,Aayra Stationery and accessories,Stationery store,
+112,India,Jaipur,Taj Paints & Hardware,N/A,N/A,N/A,N/A,9828099202,Taj Paints & Hardware,Store,
+113,India,Jaipur,Sonkhia Brothers,N/A,N/A,N/A,N/A,1412314482,Sonkhia Brothers,Fastener supplier,
+114,India,Jaipur,Kumar Medical,N/A,N/A,N/A,N/A,9829610430,Kumar Medical,Medical,
+115,India,Jaipur,Kumar Book Depo,N/A,N/A,N/A,N/A,9829610430,Kumar Book Depo,Store,
+116,India,Jaipur,Jivan Nagji & Sons,N/A,N/A,N/A,N/A,9829064173,Jivan Nagji & Sons,Electrician,
+117,India,Jaipur,JAIDEVI AGRITECH PVT. LTD,N/A,N/A,N/A,N/A,1412503596,JAIDEVI AGRITECH PVT. LTD,Corporate office,
+118,India,Jaipur,Prakash Hardware,N/A,N/A,N/A,N/A,9828151178,Prakash Hardware,Hardware Store,
+119,India,Jaipur,Agarwal Pipes And Fitting Store,N/A,N/A,N/A,N/A,9829125171,Agarwal Pipes And Fitting Store,Services,
+120,India,Jaipur,Cera Authorized Dealer - Ambika Pipe Traders -,N/A,N/A,N/A,N/A,7976288295,Cera Authorized Dealer - Ambika Pipe Traders -,Services,
+121,India,Jaipur,Ambika pipe and fitting store Real Estate,N/A,N/A,N/A,N/A,6375234373,Ambika pipe and fitting store Real Estate,Real Estate,
+122,India,Jaipur,Sameer Sanitary & Pipe Fitting Store,N/A,N/A,N/A,N/A,9784224349,Sameer Sanitary & Pipe Fitting Store,Hardware Store,
+123,India,Jaipur,Shree Mangal Fitting House,N/A,N/A,N/A,N/A,9950950950,Shree Mangal Fitting House,Hardware Store,
+124,India,Jaipur,Sanjay Medicos,N/A,N/A,N/A,N/A,9314999894,Sanjay Medicos,Pharmacy,
+125,India,Jaipur,National Durg House,N/A,N/A,N/A,N/A,1412321368,National Durg House,Pharmacy,
+126,India,Jaipur,"Garg Electricals- Fan, Water Heater, Geyser, Cooler Supplier, Electrician, Electrical Shop In Mansarovar",N/A,N/A,N/A,N/A,8306638787,"Garg Electricals- Fan, Water Heater, Geyser, Cooler Supplier, Electrician, Electrical Shop In Mansarovar",Electrician store,
+127,India,Jaipur,Dilip Enterprises - Electrician Discount Store,N/A,N/A,N/A,N/A,7414821801,Dilip Enterprises - Electrician Discount Store,Real Estate,
+128,India,Jaipur,Growel Electricals- Electric Supply Store,N/A,N/A,N/A,N/A,9314008797,Growel Electricals- Electric Supply Store,Electrician store,
+129,India,Jaipur,Sanzari - Best fan and water heater store in Jaipur | Best kitchen appliances store in Jaipur,N/A,N/A,N/A,N/A,9784505200,Sanzari - Best fan and water heater store in Jaipur | Best kitchen appliances store in Jaipur,Store,
+130,India,Jaipur,Kishore Electric,N/A,N/A,N/A,N/A,7615079026,Kishore Electric,Electrician store,
+131,India,Jaipur,Jaipur Electrical,N/A,N/A,N/A,N/A,1412357317,Jaipur Electrical,Electrician store,
+132,India,Jaipur,KAMLA ELECTRICALS,N/A,N/A,N/A,N/A,9414770587,KAMLA ELECTRICALS,Electrician store,
+133,India,Jaipur,Shree Electricals And Home Appliances,N/A,N/A,N/A,N/A,9829090923,Shree Electricals And Home Appliances,Electrician store,
+134,India,Jaipur,Hitesh Electricals- Electrical Shop,N/A,N/A,N/A,N/A,1412316276,Hitesh Electricals- Electrical Shop,Electrician store,
+135,India,Jaipur,Om Shiv Electricals,N/A,N/A,N/A,N/A,8559819924,Om Shiv Electricals,Electrician store,
+136,India,Jaipur,Khandelwal Electricals,N/A,N/A,N/A,N/A,9314962067,Khandelwal Electricals,Electrician store,
+137,India,Jaipur,Ganpati Electricals And Sanitary Hardware,N/A,N/A,N/A,N/A,7073030741,Ganpati Electricals And Sanitary Hardware,Electrician store,
+138,India,Jaipur,Om Shiv Electricals,N/A,N/A,N/A,N/A,8559819924,Om Shiv Electricals,Electrician store,
+139,India,Jaipur,Prestige Electrical Industries,N/A,N/A,N/A,N/A,9828156790,Prestige Electrical Industries,Electrician store,
+140,India,Jaipur,Rajasthan Electrical & Sanitary,N/A,N/A,N/A,N/A,9351387136,Rajasthan Electrical & Sanitary,Electrician store,
+141,India,Jaipur,Wholesale Electrical Items Shop Best Decorative Lights in Jaipur,N/A,N/A,N/A,N/A,9829305799,Wholesale Electrical Items Shop Best Decorative Lights in Jaipur,Lighting products Real Estate,
+142,India,Jaipur,Shiv Shankar Electricals,N/A,N/A,N/A,N/A,9314171500,Shiv Shankar Electricals,Electrician store,
+143,India,Jaipur,Shree Prakash Electricals,N/A,N/A,N/A,N/A,1414797878,Shree Prakash Electricals,Electrician store,
+144,India,Jaipur,Vishnu Electricals,N/A,N/A,N/A,N/A,9829054030,Vishnu Electricals,Electrician store,
+145,India,Jaipur,Tanishq Electricals,N/A,N/A,N/A,N/A,9414073902,Tanishq Electricals,Electrician store,
+146,India,Jaipur,Jain Electricals,N/A,N/A,N/A,N/A,9352241783,Jain Electricals,Electrician store,
+147,India,Jaipur,Rajdhani Electricals & Sanitary,N/A,N/A,N/A,N/A,9829098715,Rajdhani Electricals & Sanitary,Electrician store,
+148,India,Jaipur,Kamlesh Nagar & Company,N/A,N/A,N/A,N/A,1414035435,Kamlesh Nagar & Company,Electrician store,
+149,India,Jaipur,Maheshwari Electricals,N/A,N/A,N/A,N/A,1412366620,Maheshwari Electricals,Electrician store,
+150,India,Jaipur,Manoj Radio & Electricals,N/A,N/A,N/A,N/A,9351495045,Manoj Radio & Electricals,Electrician store,
+151,India,Jaipur,Nagar Engineering Company,N/A,N/A,N/A,N/A,9413337970,Nagar Engineering Company,Pump supplier,
+152,India,Jaipur,Industrial Sales & Services,N/A,N/A,N/A,N/A,9351612586,Industrial Sales & Services,Electrician store,
+153,India,Jaipur,Vikas Pumps Pvt Ltd,N/A,N/A,N/A,N/A,9414075362,Vikas Pumps Pvt Ltd,Electrician store,
+154,India,Jaipur,MAYUR ENTERPRISES,N/A,N/A,N/A,N/A,9782616127,MAYUR ENTERPRISES,Electrician store,
+155,India,Jaipur,Vinayak Engineers,N/A,N/A,N/A,N/A,9799999403,Vinayak Engineers,Electrician store,
+156,India,Jaipur,FINOLEX WIRES Jaipur,N/A,N/A,N/A,N/A,9928096960,FINOLEX WIRES Jaipur,Electrician store,
+157,India,Jaipur,Weekend Travel And Tour Services,N/A,N/A,N/A,N/A,9887444234,Weekend Travel And Tour Services,Travel agency,
+158,India,Jaipur,Jaipur City Tour & Travel,N/A,N/A,N/A,N/A,9672363632,Jaipur City Tour & Travel,Services,
+159,India,Jaipur,CMK Properties & To-let Services Jaipur,N/A,N/A,N/A,N/A,9314878056,CMK Properties & To-let Services Jaipur,Real Estate,
+160,India,Jaipur,Jaipur Properties Real Estate Agent,N/A,N/A,N/A,N/A,8209790656,Jaipur Properties Real Estate Agent,Real Estate,
+161,India,Jaipur,Rental Property Broker in Jaipur,N/A,N/A,N/A,N/A,8952042832,Rental Property Broker in Jaipur,Real Estate,
+162,India,Jaipur,"Wafadar Properties - REAL STATE, PROPERTY DEALER ,PROPERTY IN Jaipur, TO LET SERVIECS, PRATAP NAGAR,JAGATPURA",N/A,N/A,N/A,N/A,9799210174,"Wafadar Properties - REAL STATE, PROPERTY DEALER ,PROPERTY IN Jaipur, TO LET SERVIECS, PRATAP NAGAR,JAGATPURA",Real Estate,
+163,India,Jaipur,MK Grocery StoreAL STORE,N/A,N/A,N/A,N/A,9828182221,MK Grocery StoreAL STORE,Store,
+164,India,Jaipur,Jain Grocery Storeal Store,N/A,N/A,N/A,N/A,9887175330,Jain Grocery Storeal Store,Grocery Store,
+165,India,Jaipur,Narendra Grocery Storeal Store,N/A,N/A,N/A,N/A,7877403021,Narendra Grocery Storeal Store,Medical,
+166,India,Jaipur,Gupta Grocery Storeal And Grocery Store,N/A,N/A,N/A,N/A,9413188667,Gupta Grocery Storeal And Grocery Store,Grocery Store,
+167,India,Jaipur,Maruti Grocery Storeal Store,N/A,N/A,N/A,N/A,8000587085,Maruti Grocery Storeal Store,Grocery Store,
+168,India,Jaipur,Akshita MedicalAnd Grocery Storeal Store,N/A,N/A,N/A,N/A,8764223233,Akshita MedicalAnd Grocery Storeal Store,Medical,
+169,India,Jaipur,Shyam MedicalAnd Grocery Storeal Store,N/A,N/A,N/A,N/A,9875757075,Shyam MedicalAnd Grocery Storeal Store,Medical,
+170,India,Jaipur,National Medicaland Grocery Storeal store,N/A,N/A,N/A,N/A,8104493006,National Medicaland Grocery Storeal store,Medical,
+171,India,Jaipur,Sanjeevani Grocery Storeal Store,N/A,N/A,N/A,N/A,8078622981,Sanjeevani Grocery Storeal Store,Pharmacy,
+172,India,Jaipur,Sharma MedicalAnd Grocery Storeal Store,N/A,N/A,N/A,N/A,9782506000,Sharma MedicalAnd Grocery Storeal Store,Pharmacy,
+173,India,Jaipur,Jain Grocery Store Store,N/A,N/A,N/A,N/A,9460182938,Jain Grocery Store Store,store,
+174,India,Jaipur,Amit Grocery Storeal Store,N/A,N/A,N/A,N/A,8949473386,Amit Grocery Storeal Store,Medical,
+175,India,Jaipur,Ashu Kripa MedicalAnd Grocery Storeal Store,N/A,N/A,N/A,N/A,9928602464,Ashu Kripa MedicalAnd Grocery Storeal Store,Pharmacy,
+176,India,Jaipur,Shree Ram Medicaland Grocery Storeal store,N/A,N/A,N/A,N/A,9521480039,Shree Ram Medicaland Grocery Storeal store,Medical,
+177,India,Jaipur,Jai Ram Grocery Storeal Store,N/A,N/A,N/A,N/A,9460186870,Jai Ram Grocery Storeal Store,Pharmacy,
+178,India,Jaipur,Disha Medicals & Grocery Storeal Store,N/A,N/A,N/A,N/A,9414210022,Disha Medicals & Grocery Storeal Store,Pharmacy,
+179,India,Jaipur,Naina MedicalAnd Grocery Storeal Store,N/A,N/A,N/A,N/A,9309478342,Naina MedicalAnd Grocery Storeal Store,Pharmacy,
+180,India,Jaipur,Farooquii Grocery Storeal store,N/A,N/A,N/A,N/A,9887861500,Farooquii Grocery Storeal store,Pharmacy,
+181,India,Jaipur,Sonali MedicalAnd Grocery Storeal Store,N/A,N/A,N/A,N/A,6204037061,Sonali MedicalAnd Grocery Storeal Store,Pharmacy,
+182,India,Jaipur,Krishna Grocery Storeal and stationers,N/A,N/A,N/A,N/A,7792921786,Krishna Grocery Storeal and stationers,Services,
+183,India,Jaipur,Dipartmental Store Pareek,N/A,N/A,N/A,N/A,7889499051,Dipartmental Store Pareek,Grocery Store,
+184,India,Jaipur,Shreenath Grocery Storeal Store,N/A,N/A,N/A,N/A,9782758480,Shreenath Grocery Storeal Store,Store,
+185,India,Jaipur,Trident MedicalGeneral And Grocery Storeal Store,N/A,N/A,N/A,N/A,7737720433,Trident MedicalGeneral And Grocery Storeal Store,Medical,
+186,India,Jaipur,Tanu Grocery Storeal Store,N/A,N/A,N/A,N/A,9887608102,Tanu Grocery Storeal Store,Medical,
+187,India,Jaipur,"Parashar MedicalAnd Grocery Storeal Store,Mahaveer Colony",N/A,N/A,N/A,N/A,7300347870,"Parashar MedicalAnd Grocery Storeal Store,Mahaveer Colony",Pharmacy,
+188,India,Jaipur,Naaj Grocery Storeal Store,N/A,N/A,N/A,N/A,9929865761,Naaj Grocery Storeal Store,Pharmacy,
+189,India,Jaipur,Khushboo MedicalAnd Grocery Storeal Store,N/A,N/A,N/A,N/A,9166992761,Khushboo MedicalAnd Grocery Storeal Store,Pharmacy,
+190,India,Jaipur,Choudhary MedicalAnd Grocery Storeal Stor,N/A,N/A,N/A,N/A,9460612782,Choudhary MedicalAnd Grocery Storeal Stor,Business related,
+191,India,Jaipur,Navyug Grocery Storeal Store,N/A,N/A,N/A,N/A,9314874145,Navyug Grocery Storeal Store,Medical,
+192,India,Jaipur,Kamla Grocery Storeal Store,N/A,N/A,N/A,N/A,8233029674,Kamla Grocery Storeal Store,Pharmacy,
+193,India,Jaipur,Uma MedicalGrocery Storeal Stores,N/A,N/A,N/A,N/A,9829142488,Uma MedicalGrocery Storeal Stores,Pharmacy,
+194,India,Jaipur,Jaipur Plywood,N/A,N/A,N/A,N/A,8233793137,Jaipur Plywood,Plywood supplier,
+195,India,Jaipur,Choudhary Plywood,N/A,N/A,N/A,N/A,9462043916,Choudhary Plywood,Plywood supplier,
+196,India,Jaipur,Lakdiwalas,N/A,N/A,N/A,N/A,7742823411,Lakdiwalas,Plywood supplier,
+197,India,Jaipur,GRK Timber And Plywood,N/A,N/A,N/A,N/A,9116611993,GRK Timber And Plywood,Plywood supplier,
+198,India,Jaipur,Hindustan Timber And Plywood,N/A,N/A,N/A,N/A,8829958901,Hindustan Timber And Plywood,Plywood supplier,
+199,India,Jaipur,Dadashraya Plywood,N/A,N/A,N/A,N/A,9001290016,Dadashraya Plywood,Plywood supplier,
+200,India,Jaipur,Jaipur Bikaner Trading Company Agencies,N/A,N/A,N/A,N/A,9414059522,Jaipur Bikaner Trading Company Agencies,Plywood supplier,
+201,India,Jaipur,National Hardware House,N/A,N/A,N/A,N/A,9928560890,National Hardware House,Hardware Store,
+202,India,Jaipur,Shri Gurukripa Sanitary Hardware And Electricals,N/A,N/A,N/A,N/A,8005910224,Shri Gurukripa Sanitary Hardware And Electricals,Hardware Store,
+203,India,Jaipur,"Ozone India | Mukesh Tools and Hardware | Jaipur, Rajasthan",N/A,N/A,N/A,N/A,9929653256,"Ozone India | Mukesh Tools and Hardware | Jaipur, Rajasthan",Hardware Store,
+204,India,Jaipur,Punjab Hardware Store,N/A,N/A,N/A,N/A,9983323323,Punjab Hardware Store,Hardware Store,
+205,India,Jaipur,Kumawat Traders - Hardware - Iron and Steel Store Jaipur,N/A,N/A,N/A,N/A,9024263712,Kumawat Traders - Hardware - Iron and Steel Store Jaipur,Hardware Store,
+206,India,Jaipur,KUMAWAT HARDWARE,N/A,N/A,N/A,N/A,9680137249,KUMAWAT HARDWARE,Hardware Store,
+207,India,Jaipur,Shree Ram Hardware And Tools,N/A,N/A,N/A,N/A,9929765752,Shree Ram Hardware And Tools,Hardware Store,
+208,India,Jaipur,Rajasthan Tools,N/A,N/A,N/A,N/A,9660762262,Rajasthan Tools,Hardware Store,
+209,India,Jaipur,VASUMAL LALCHAND,N/A,N/A,N/A,N/A,9828149590,VASUMAL LALCHAND,Store,
+210,India,Jaipur,B.K.Hardware Store,N/A,N/A,N/A,N/A,9952966071,B.K.Hardware Store,Hardware Store,
+211,India,Jaipur,SHRI SHYAM TOOLS,N/A,N/A,N/A,N/A,9549818478,SHRI SHYAM TOOLS,Store,
+212,India,Jaipur,Ganesh Hardware Traders,N/A,N/A,N/A,N/A,9314294156,Ganesh Hardware Traders,Hardware Store,
+213,India,Jaipur,International Power Tools,N/A,N/A,N/A,N/A,9983983496,International Power Tools,Hardware Store,
+214,India,Jaipur,"HARIOM POWER TOOLS (XTRA-POWER, Hi-Max)",N/A,N/A,N/A,N/A,9643300090,"HARIOM POWER TOOLS (XTRA-POWER, Hi-Max)",Hardware Store,
+215,India,Jaipur,Shri Bhagawati Hardware & Electricals,N/A,N/A,N/A,N/A,9414248287,Shri Bhagawati Hardware & Electricals,Hardware Store,
+216,India,Jaipur,J.K. Traders Hardware Store,N/A,N/A,N/A,N/A,9828076270,J.K. Traders Hardware Store,Hardware Store,
+217,India,Jaipur,Manish Tools,N/A,N/A,N/A,N/A,1412372410,Manish Tools,Store,
+218,India,Jaipur,Jaipur Tools,N/A,N/A,N/A,N/A,8094000757,Jaipur Tools,Store,
+219,India,Jaipur,Khushal Chand Khurana,N/A,N/A,N/A,N/A,1412321681,Khushal Chand Khurana,Hardware Store,
+220,India,Jaipur,Jitendra Hardware Store,N/A,N/A,N/A,N/A,8414770502,Jitendra Hardware Store,Hardware Store,
+221,India,Jaipur,Tikam Hardwares,N/A,N/A,N/A,N/A,9828089001,Tikam Hardwares,Hardware Store,
+222,India,Jaipur,Kumawat Power Tools & Air Compressor Technologist,N/A,N/A,N/A,N/A,9521177615,Kumawat Power Tools & Air Compressor Technologist,Hardware Store,
+223,India,Jaipur,Mahima Hardware,N/A,N/A,N/A,N/A,9351355722,Mahima Hardware,Hardware Store,
+224,India,Jaipur,Radhe Rani Hardware tools Electric And Sanitary,N/A,N/A,N/A,N/A,8955840958,Radhe Rani Hardware tools Electric And Sanitary,Hardware Store,
+225,India,Jaipur,Khandal hardware,N/A,N/A,N/A,N/A,7665017777,Khandal hardware,Store,
+226,India,Jaipur,Jaipur Hardware Sanitary Electricals And Plywood,N/A,N/A,N/A,N/A,8387085803,Jaipur Hardware Sanitary Electricals And Plywood,Hardware Store,
+227,India,Jaipur,Shagun Hardware,N/A,N/A,N/A,N/A,9509585185,Shagun Hardware,Hardware Store,
+228,India,Jaipur,Dilip Sanitary & Hardware Store,N/A,N/A,N/A,N/A,9414826909,Dilip Sanitary & Hardware Store,Hardware Store,
+229,India,Jaipur,ZIYA HARDWARE & SANITARY,N/A,N/A,N/A,N/A,9587154730,ZIYA HARDWARE & SANITARY,Hardware Store,
+230,India,Jaipur,YBH power tools,N/A,N/A,N/A,N/A,8696666649,YBH power tools,Hardware Store,
+231,India,Jaipur,J P Hardware & Machinery Store,N/A,N/A,N/A,N/A,6375452356,J P Hardware & Machinery Store,Hardware Store,
+232,India,Jaipur,Shree Gopal Hardware,N/A,N/A,N/A,N/A,1412331845,Shree Gopal Hardware,Hardware Store,
+233,India,Jaipur,Mohit Power Tools,N/A,N/A,N/A,N/A,9799222816,Mohit Power Tools,Electrician,
+234,India,Jaipur,Rakesh tools and hardware,N/A,N/A,N/A,N/A,7877887156,Rakesh tools and hardware,Hardware Store,
+235,India,Jaipur,Ganpati Electricals And Sanitary Hardware,N/A,N/A,N/A,N/A,7073030741,Ganpati Electricals And Sanitary Hardware,Hardware Store,
+236,India,Jaipur,Lekhra Hardware ( Hardware Store ),N/A,N/A,N/A,N/A,7231909391,Lekhra Hardware ( Hardware Store ),Hardware Store,
+237,India,Jaipur,APA's Sewer & Plumbing NYC,N/A,N/A,N/A,N/A,9782856756,Rajdhani tools new vinod traders,Hardware Store,
+238,India,Jaipur,Kumawat Hardware Store,N/A,N/A,N/A,N/A,9529240133,Kumawat Hardware Store,Hardware Store,
+239,India,Jaipur,Payal Hardware & Steel Bartan Stor,N/A,N/A,N/A,N/A,8302247982,Payal Hardware & Steel Bartan Store,Hardware Store,
+240,India,Jaipur,"Ozone India | Jyoti Tools And Hardware | Barhmohanpura, Rajasthan",N/A,N/A,N/A,N/A,9782097170,"Ozone India | Jyoti Tools And Hardware | Barhmohanpura, Rajasthan",Hardware Store,
+241,India,Jaipur,Balaji hardware and Tools,N/A,N/A,N/A,N/A,7062052078,Balaji hardware and Tools,Hardware Store,
+242,India,Jaipur,Shri Hari Hardware Store,N/A,N/A,N/A,N/A,1412373045,Shri Hari Hardware Store,Hardware Store,
+243,India,Jaipur,Chawla Hardware Store,N/A,N/A,N/A,N/A,1412621172,Chawla Hardware Store,Hardware Store,
+244,India,Jaipur,Hanumant Hardware,N/A,N/A,N/A,N/A,8334078602,Hanumant Hardware,Hardware Store,
+245,India,Jaipur,Times Hardware,N/A,N/A,N/A,N/A,9314428111,Times Hardware,Hardware Store,
+246,India,Jaipur,MAJISA HARDWARE AND TOOLS TRADERS,N/A,N/A,N/A,N/A,9460064523,MAJISA HARDWARE AND TOOLS TRADERS,Hardware Store,
+247,India,Jaipur,HOME STYLE - Kitchen Hardware Ladder Ao Smith Door And Window Hardware Bathroom Accessories,N/A,N/A,N/A,N/A,9413205222,HOME STYLE - Kitchen Hardware Ladder Ao Smith Door And Window Hardware Bathroom Accessories,Hardware Store,
+248,India,Jaipur,Gradewon Hardware & Sanitary Center,N/A,N/A,N/A,N/A,7737281190,Gradewon Hardware & Sanitary Center,Hardware Store,
+249,India,Jaipur,Union Oil Store,N/A,N/A,N/A,N/A,9829123100,Union Oil Store,Hardware Store,
+250,India,Jaipur,Shree Shyam Tools,N/A,N/A,N/A,N/A,8764060024,Shree Shyam Tools,Jewelry equipment supplier,
+251,India,New york,NYC Services Bronx & Drain Cleaning,N/A,N/A,N/A,N/A,19145152493,NYC Services Bronx & Drain Cleaning,Services,
+252,India,New york,Ludlow Plumbing Supply inc.,N/A,N/A,N/A,N/A,16463701338,Ludlow Plumbing Supply inc.,Services,
+253,India,New york,Services NYC,N/A,N/A,N/A,N/A,12122222220,Services NYC,Services,
+254,India,New york,New York Drain Restoration inc,N/A,N/A,N/A,N/A,12126937246,New York Drain Restoration inc,Services,
+255,India,New york,Dyckman Plumbing & Heating,N/A,N/A,N/A,N/A,12122190112,Dyckman Plumbing & Heating,Services,
+256,India,New york,Centre Plumbing Electric Hardware Supply,N/A,N/A,N/A,N/A,12129658038,Centre Plumbing Electric Hardware Supply,Services,
+257,India,New york,Emergency Services NYC,N/A,N/A,N/A,N/A,16467364811,Emergency Services NYC,Services,
+258,India,New york,All Rooter Plumbing n Air,N/A,N/A,N/A,N/A,19295616204,All Rooter Plumbing n Air,Services,
+259,India,New york,10 Man Plumbing,N/A,N/A,N/A,N/A,12129371136,10 Man Plumbing,Services,
+260,India,New york,Centre Plumbing and Heating,N/A,N/A,N/A,N/A,13322965721,Centre Plumbing and Heating,Services,
+261,India,New york,1 Day Plumbing,N/A,N/A,N/A,N/A,12129371106,1 Day Plumbing,Services,
+262,India,New york,Cosme Plumbing & Heating Corporation,N/A,N/A,N/A,N/A,12128288860,Cosme Plumbing & Heating Corporation,Services,
+263,India,New york,ASAP Solutions,N/A,N/A,N/A,N/A,19176840088,ASAP Solutions,Services,
+264,India,New york,Agimi Plumbing,N/A,N/A,N/A,N/A,12129371174,Agimi Plumbing,Services,
+265,India,New york,Attack Plumbing,N/A,N/A,N/A,N/A,12129371142,Attack Plumbing,Services,
+266,India,Jaipur,Jaipur Repair Services,N/A,N/A,N/A,N/A,7230069996,Jaipur Repair Services,Services,
+267,India,Jaipur,MULTI-BRAND HOME APPLIANCES,N/A,N/A,N/A,N/A,9602000622,MULTI-BRAND HOME APPLIANCES,Services,
+268,India,Jaipur,SHEKHAWATI REFRIGERATION.,N/A,N/A,N/A,N/A,9352590900,SHEKHAWATI REFRIGERATION.,Services,
+269,India,Jaipur,"Ratan geyser , ac, microwave oven, washing machine Services repair",N/A,N/A,N/A,N/A,9664263801,"Ratan geyser , ac, microwave oven, washing machine Services repair",Electrician store,
+270,India,Jaipur,"Ram Tech Point (washing Machine, refrigeration,kitchen chimney, microvave,Ac repair Services in Jaipur)",N/A,N/A,N/A,N/A,9660415928,"Ram Tech Point (washing Machine, refrigeration,kitchen chimney, microvave,Ac repair Services in Jaipur)",Services,
+271,India,Jaipur,"Hi-tech Home Services Ac, washing machine repair center",N/A,N/A,N/A,N/A,8560838247,"Hi-tech Home Services Ac, washing machine repair center",Services,
+272,India,Jaipur,Air conditioner repairing and Services Jaipur,N/A,N/A,N/A,N/A,8114481573,Air conditioner repairing and Services Jaipur,Services,
+273,India,Jaipur,Dayal Electricals And Repairing Centre Jaipur,N/A,N/A,N/A,N/A,9672935278,Dayal Electricals And Repairing Centre Jaipur,Real Estate,
+274,India,Jaipur,"Hemu Best AC Repair in Jaipur, Best AC Services in Jaipur,Best electrician in Jaipur",N/A,N/A,N/A,N/A,7891653750,"Hemu Best AC Repair in Jaipur, Best AC Services in Jaipur,Best electrician in Jaipur",Services,
+275,India,Jaipur,SHREE KARNI Services Jaipur,N/A,N/A,N/A,N/A,8114481573,SHREE KARNI Services Jaipur,Services,
+276,India,Jaipur,Dev appliance repair,N/A,N/A,N/A,N/A,9602001469,Dev appliance repair,Services,
+277,India,Jaipur,Ms Air Cooling System ( led tv repair Jaipur & led tv installation Services Jaipur),N/A,N/A,N/A,N/A,9783831570,Ms Air Cooling System ( led tv repair Jaipur & led tv installation Services Jaipur),Services,
+278,India,Jaipur,Sharma Electrician Jaipur - LED TV Repair & Services Center,N/A,N/A,N/A,N/A,9413205420,Sharma Electrician Jaipur - LED TV Repair & Services Center,Services,
+279,India,Jaipur,Prashant Electrical and Electrician store,N/A,N/A,N/A,N/A,8107436717,Prashant Electrical and Electrician store,Services,
+280,India,Jaipur,"Washing Machine Repairing Center - LG, Samsung, Whirlpool Washing Machine | Washing Machine Services Center in Jaipur",N/A,N/A,N/A,N/A,9116668998,"Washing Machine Repairing Center - LG, Samsung, Whirlpool Washing Machine | Washing Machine Services Center in Jaipur",Services,
+281,India,Jaipur,"Ac Services, repairing / split AC window AC repair Services near me in Jaipur,",N/A,N/A,N/A,N/A,9772891263,"Ac Services, repairing / split AC window AC repair Services near me in Jaipur,",Services,
+282,India,Jaipur,Ac repairing & Services / split AC window AC repair Services in Jaipur,N/A,N/A,N/A,N/A,9358267141,Ac repairing & Services / split AC window AC repair Services in Jaipur,Services,
+283,India,Jaipur,Fridge Repair and AC Repair,N/A,N/A,N/A,N/A,9314619486,Fridge Repair and AC Repair,Services,
+284,India,Jaipur,Tv Services Jaipur-Led Tv Smart Tv Repair Services center,N/A,N/A,N/A,N/A,7222000044,Tv Services Jaipur-Led Tv Smart Tv Repair Services center,Services,
+285,India,Jaipur,Jaipur Refrigeration Centre,N/A,N/A,N/A,N/A,7222834578,Jaipur Refrigeration Centre,Services,
+286,India,Jaipur,MS TECHNO CARE ( Led Tv Repair Jaipur & Installation Services Jaipur ),N/A,N/A,N/A,N/A,7976169673,MS TECHNO CARE ( Led Tv Repair Jaipur & Installation Services Jaipur ),Services,
+287,India,Jaipur,Home Services,N/A,N/A,N/A,N/A,7742389100,Home Services,Services,
+288,India,Jaipur,Mahesh AC Repair Services,N/A,N/A,N/A,N/A,9460338361,Mahesh AC Repair Services,Services,
+289,India,Jaipur,Technical Force Multi Services,N/A,N/A,N/A,N/A,7424874444,Technical Force Multi Services,Water purification company,
+290,India,Jaipur,"Janta Crockery Store (Kitchen appliances Repair , Sales and exchange) since 1961",N/A,N/A,N/A,N/A,9680433768,"Janta Crockery Store (Kitchen appliances Repair , Sales and exchange) since 1961",Countertop store,
+291,India,Jaipur,Rahul Aircon,N/A,N/A,N/A,N/A,8949586459,Rahul Aircon,Services,
+292,India,Jaipur,IFB Services Center in Jaipur,N/A,N/A,N/A,N/A,7068566013,IFB Services Center in Jaipur,Services,
+293,India,Jaipur,Gama Electrician PCB repairing,N/A,N/A,N/A,N/A,9414046400,Gama Electrician PCB repairing,Electrician store,
+294,India,Jaipur,Lalit Grocery Store,N/A,N/A,N/A,N/A,9024544446,Lalit Grocery Store,Grocery store,
+295,India,Jaipur,Gupta Grocery Store,N/A,N/A,N/A,N/A,9928441101,Gupta Grocery Store,store,
+296,India,Jaipur,National Kirana and Grocery Store,N/A,N/A,N/A,N/A,7357050712,National Kirana and Grocery Store,Grocery store,
+297,India,Jaipur,Jyoti Grocery Store,N/A,N/A,N/A,N/A,7062714747,Jyoti Grocery Store,Grocery Store,
+298,India,Jaipur,Jain Kirana & Grocery Store.,N/A,N/A,N/A,N/A,9352021660,Jain Kirana & Grocery Store.,Grocery Store,
+299,India,Jaipur,Vaishali Grocery & Grocery Store,N/A,N/A,N/A,N/A,9024733752,Vaishali Grocery & Grocery Store,Grocery Store,
